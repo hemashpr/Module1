@@ -5,7 +5,7 @@
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
 
 ## 🧠 Algorithm
-1. Set variable `a` to the result of the expression `0 == True`.
+1. Set variable `a` to the result of the expression `11 == True`.
 2. Set variable `b` to the result of the expression `False == False`.
 3. Set variable `c` to the result of the expression `True + True`.
 4. Set variable `d` to the result of the expression `False + 9`.
@@ -15,7 +15,21 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-Add Code here
+```python
+a = (11 == True)
+b = (5 == False)
+c = True + 54
+d = False + 7
+
+# results
+print("a is", a)
+print("b is", b)
+print("c:", c)
+print("d:", d)
+```
 
 ## Output
+<img width="470" height="228" alt="image" src="https://github.com/user-attachments/assets/6ec9a5b6-04bb-4ac9-8a75-05cab22ebee2" />
+
 ## Result
+Thus , the program has been executed succesfully.
